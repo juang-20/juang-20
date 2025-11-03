@@ -2,14 +2,13 @@
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Interessado em **Desenvolvimento Web, Automação e Banco de Dados**  
-📊 Apaixonado por **Business Intelligence e análise de dados**  
+📊 Apaixonado por **Front- end e análise de dados**  
 
 ---
 
 ## 🛠️ Tecnologias que estudo
-- **Linguagens:** Python, JavaScript, SQL  
-- **Ferramentas:** Git, GitHub, VS Code, Bling (ERP)  
-- **Outros:** Power BI, Excel avançado.
+- **Linguagens:** HTML, JavaScript, CSS.  
+- **Ferramentas:** Git, GitHub, VS Code. 
 
 ---
 
